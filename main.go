@@ -3,7 +3,7 @@ package main
 import (
 	"database/sql"
 	"fmt"
-	"mysql_example_golang/db"
+	"gomysql/db"
 )
 
 func main() {
